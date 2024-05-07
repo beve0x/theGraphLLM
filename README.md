@@ -58,3 +58,8 @@ If you encounter HTTP errors or other issues, the notebook includes error handli
 
 Visualization
 Results from TheGraph queries are printed directly in the notebook for easy visualization and further analysis.
+
+
+# Acknowledgments
+Thanks to TheGraph for the API.
+Thanks to OpenAI for the GPT models.
